@@ -7,4 +7,7 @@ public class gateWay {
 	public Dragoon makeDragoon(){
 		return new Dragoon();
 	}
+	public DarkTempler makeDarkTempler(){
+		return new DarkTempler();
+	}
 }
